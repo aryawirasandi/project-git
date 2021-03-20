@@ -1,0 +1,14 @@
+.done{
+    background-color: green;
+    color : #fff;
+}
+
+.undone {
+    background-color: red;
+    color: #fff;
+}
+
+.card:hover{
+    box-shadow: -1px 2px 32px -13px rgba(0,0,0,0.75);
+    transform: scale(1.1);
+}
